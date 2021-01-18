@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162026891923",
+    "project_id": "pushnotificationpoc-ca8cc",
+    "storage_bucket": "pushnotificationpoc-ca8cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162026891923:android:a883587a858150a3bbbb66",
+        "android_client_info": {
+          "package_name": "com.kfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162026891923-eskag47vmio53rfkg6crrggd7catqst7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNsI4I_JgtRb3PygkcCgwc7S3pkFiA7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162026891923-eskag47vmio53rfkg6crrggd7catqst7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
